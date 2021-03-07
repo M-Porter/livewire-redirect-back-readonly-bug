@@ -14,3 +14,10 @@ After navigating back, the input field should be editable.
 2. Enter a value in the input field and click submit.
 3. After being redirected to the new page, click the back button in your browser.
 4. See your original input value in the input field. The input field is not editable.
+
+### Context
+
+- Livewire version: v2.4.0
+- Laravel version: v8.31.0
+- Alpine version: N/A
+- Browser: Chrome, Firefox, Safari
